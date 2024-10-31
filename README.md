@@ -1,6 +1,4 @@
-# cider_making
-
-## How to make cider without an apple press :apple: :green_apple: :beer: :green_apple: :apple:
+# How to make cider without an apple press :apple: :green_apple: :beer: :green_apple: :apple:
 
 1. Take 6 keen but poor students*
 2. Acquire a bike :bike: and 65-80 litre rucksack each by whatever legal means you can
